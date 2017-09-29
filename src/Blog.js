@@ -12,7 +12,7 @@ export default class Blog extends Component {
   render() {
     return (
       <div className='Blog'>
-        Blog componenet created!!
+        Blog component created!
       </div>
     );
   }

@@ -12,7 +12,7 @@ export default class AboutPage extends Component {
   render() {
     return (
       <div className='AboutPage'>
-        example componenet created!!
+        AboutPage component created!!
       </div>
     );
   }
